@@ -1,0 +1,6 @@
+title: OkeroyaheLibrary
+description: Online library for College of Education materials
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  
